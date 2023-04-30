@@ -62,4 +62,9 @@ If you have any feedback please contact bicakciberk.com@gmail.com
 ## Live Preview
 https://thunderous-cactus-cdae46.netlify.app/
 
+## Authors and Thanks
+
+- [Bobyk Media](https://www.youtube.com/watch?v=y9j-BL5ocW8) for video
+
+
   
