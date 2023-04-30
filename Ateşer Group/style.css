@@ -386,8 +386,9 @@ footer .widget {
         bottom: 0;
         top: 62px;
         align-items: center;
-        height: 100vh;
-        padding-top: 50px;
+        justify-content: center;
+        height: calc(100vh - 62px);
+        padding: 62px 0px;
         transition: 0.7s;
         background-color: #000000;
     }
@@ -402,6 +403,10 @@ footer .widget {
         padding: 0px 50px;
     }
 
+    .nav-links li a{
+        font-size: 20px;
+    }
+
     .hamburger {
         display: flex;
         margin: 0px 10px;
@@ -412,7 +417,7 @@ footer .widget {
     }
 
     #hero .container h1 {
-        font-size: 56px;
+        font-size: 76px;
     }
 
     #video i {
@@ -423,6 +428,11 @@ footer .widget {
 @media screen and (max-width:551px) {
     footer .widget:not(.information) {
         margin-top: 18px;
+    }
+
+    #hero .container h1 {
+        font-size: 76px;
+        line-height: 80px;
     }
 }
 
@@ -452,11 +462,6 @@ footer .widget {
 
     .nav-links.active {
         width: 100%;
-    }
-
-    #hero .container h1 {
-        font-size: 46px;
-        width: 200px;
     }
 
     #hero .container {
