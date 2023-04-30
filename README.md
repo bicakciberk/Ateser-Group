@@ -36,13 +36,13 @@ Go to the project directory
   cd ateser-group
 ```
 
-Gerekli paketleri yükleyin
+Install required packages
 
 ```bash
   npm install
 ```
 
-Sunucuyu çalıştırın
+Run the server
 
 ```bash
   npm run start
