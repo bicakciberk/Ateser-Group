@@ -60,7 +60,7 @@ If you have any feedback please contact bicakciberk.com@gmail.com
 ![image](https://user-images.githubusercontent.com/120296952/235341710-28ac9633-420a-41ef-85fc-a4dafd2e22eb.png)
 
 ## Live Preview
-https://celadon-meringue-11205f.netlify.app/
+https://silly-parfait-6070b4.netlify.app
 
 ## Authors and Thanks
 
