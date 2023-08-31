@@ -1,6 +1,6 @@
 # Ateşer Group | Real Estate
 
-An example promotional page for Ateşer Home
+An tutorial promotional page.
 
 
 ## Contribution
